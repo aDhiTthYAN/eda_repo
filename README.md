@@ -5,9 +5,10 @@
 This project involves analyzing a dataset of employees from ABC company. The dataset contains information about various attributes such as name, team, number, position, age, height, weight, college, salary, and age group.
 
 <h3>Dataset Information:</h3>
-**Columns:**
-    Name, Team, Number, Position, Age, Height, Weight, College, Salary, Age Group
-    Total Rows: 458
+
+<h4>*Columns:</h4>
+Name, Team, Number, Position, Age, Height, Weight, College, Salary, Age Group
+Total Rows: 458
 
 
 <h3>Questions Explored:</h3>
