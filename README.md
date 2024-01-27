@@ -1,5 +1,5 @@
 
-<h1>Project Title: Employee Dataset Analysis</h1>
+<h1>Project Title: Employee Insights Explorer</h1>
 
 <h3>Overview:</h3>
 This project involves analyzing a dataset of employees from ABC company. The dataset contains information about various attributes such as name, team, number, position, age, height, weight, college, salary, and age group.
